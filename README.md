@@ -1,4 +1,4 @@
-🛡️ Cybersecurity Roadmap v3: Advanced Pentesting, Red Teaming & Security Research
+🛡️ Cybersecurity Roadmap v2: Advanced Pentesting, Red Teaming & Security Research
 
 A practical roadmap and modern toolkit for progressing from beginner to Penetration Tester → Red Teamer → Exploit Developer → Security Researcher.
 
