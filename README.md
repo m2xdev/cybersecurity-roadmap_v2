@@ -869,4 +869,4 @@ BLUE TEAM
 
 
 Author: m2xdev
-Version: 3.0 — Advanced Pentesting, Red Teaming & Security Research
+Version: 2.0 — Advanced Pentesting, Red Teaming & Security Research
