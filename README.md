@@ -1,9 +1,20 @@
-🛡️ Cybersecurity Roadmap v2: Advanced Pentesting, Red Teaming & Security Research
+# 🛡️ Cybersecurity Roadmap v2: Advanced Pentesting, Red Teaming & Security Research
 
-A practical roadmap and modern toolkit for progressing from beginner to Penetration Tester → Red Teamer → Exploit Developer → Security Researcher.
+📌 **Note:** This is my personal multi-year learning path, not my current skill level. This roadmap represents the goal I am working towards, not where I am right now.
 
-⚠️ Ethical & Legal Use: Use security tools only against systems you own or have explicit authorization to test. Safe environments include home labs, CTFs, Hack The Box, TryHackMe, PortSwigger Web Security Academy, and explicitly authorized bug bounty programs.
+⚠️ **Ethical & Legal Use:** Use security tools only against systems you own or have explicit authorization to test. Safe environments include home labs, CTFs, Hack The Box, TryHackMe, PortSwigger Web Security Academy, and explicitly authorized bug bounty programs.
 
+## 🗺️ Learning Path Integration
+This roadmap is structured to match the following skill progression:
+
+| Level | Roadmap Sections |
+| :--- | :--- |
+| 🟢 **Beginner** | Sections 1, 2, 3 (Basics) |
+| 🔵 **Junior Pentester** | Sections 3, 4, 5 |
+| 🟣 **Pentester** | Sections 4, 6, 7 |
+| 🔴 **Red Teamer** | Sections 5, 19 |
+| ⚫ **Exploit Developer** | Sections 11, 12, 13 |
+| 🧬 **Security Researcher** | Section 18 |
 🚀 1. OSINT & Reconnaissance
 🔎 Search & Intelligence
 Shodan
