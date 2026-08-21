@@ -166,6 +166,7 @@ Improper authorization
 🏢 5. Active Directory & Windows Pentesting
 
 One of the most important tracks for professional pentesters and red teamers.
+> ⚠️ **Disclaimer:** Tools like Rubeus, Impacket, and Certipy are powerful. Use them ONLY in authorized lab environments or CTFs.
 
 🧠 Enumeration
 BloodHound / BloodHound CE
@@ -551,7 +552,7 @@ Exfiltration
 Impact
 
 Study these through MITRE ATT&CK and controlled labs rather than treating them as a collection of attack commands.
-
+> ⚠️ **Disclaimer:** C2 frameworks (Sliver, Mythic, Havoc, Covenant) are for authorized Red Team exercises only.
 Frameworks / Platforms
 Metasploit
 Sliver
