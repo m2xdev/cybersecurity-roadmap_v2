@@ -15,6 +15,7 @@ This roadmap is structured to match the following skill progression:
 | 🔴 **Red Teamer** | Sections 5, 19 |
 | ⚫ **Exploit Developer** | Sections 11, 12, 13 |
 | 🧬 **Security Researcher** | Section 18 |
+
 🚀 1. OSINT & Reconnaissance
 🔎 Search & Intelligence
 Shodan
